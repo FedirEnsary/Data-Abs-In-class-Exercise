@@ -3,7 +3,6 @@ import java.util.Set;
 
 public class InClassAug29two{
 	public static void main (String[] args){
-		int x;
 		if(args.length > 0){
 		  int[] nums = new int[args.length];
 		  for(int i = 0; i < args.length; i++){
